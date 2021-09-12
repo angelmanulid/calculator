@@ -7,5 +7,5 @@ A java desktop application that performs simple operations (+, -, *, /), square 
 - If else, else if, While and For loop operations
 - Java Swing GUI Grid layout and Border Layout
 - Java Swing ActionListener
-- Switch case
+- Switch statements
 - Try and catch blocks
